@@ -1,0 +1,12 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Config et secrets éventuels
+.env
