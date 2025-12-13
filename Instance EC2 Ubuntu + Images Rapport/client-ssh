@@ -1,0 +1,1 @@
+ssh -i "devops-mlops.pem" ubuntu@ec2-3-223-152-156.compute-1.amazonaws.com
