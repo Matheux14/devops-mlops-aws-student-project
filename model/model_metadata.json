@@ -1,0 +1,11 @@
+﻿{
+    "vectorizer":  "TfidfVectorizer(stop_words=\u0027english\u0027, max_features=5000)",
+    "feature_count":  5000,
+    "notes":  "Metadata generated locally (full training metrics available in notebook).",
+    "model_name":  "Spam Email Classifier",
+    "algorithm":  "LogisticRegression",
+    "labels":  {
+                   "1":  "spam",
+                   "0":  "ham"
+               }
+}
